@@ -1,7 +1,7 @@
 # Scrapp all review of a Product
 
 
-This product page has more than 2000 reviews. [Product Page Link](https://www.adidas.com/us/ultraboost-1.0-shoes/HQ4200.html).
+This product page has more than 2000 reviews. [Product Page Link](https://www.adidas.com/us/ultraboost-1.0-shoes/HQ4200.html)
 
 ## Clone Repository
 
