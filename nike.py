@@ -13,7 +13,7 @@ driver.maximize_window()
 
 # Open the URL in the Chrome browser
 # url = 'https://www.adidas.com/us/fleece-hoodie/S97480.html'
-# url = 'https://www.adidas.com/us/ultraboost-1.0-shoes/HQ4200.html'
+url = 'https://www.adidas.com/us/ultraboost-1.0-shoes/HQ4200.html'
 
 driver.get(url)
 
